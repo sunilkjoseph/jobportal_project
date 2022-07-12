@@ -1,1 +1,1 @@
-# jobportal_project
+# job-portal-app
